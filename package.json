@@ -1,7 +1,7 @@
 {
   "name": "breast_cancer_prediction",
   "version": "1.0.0",
-  "description": "This is the major project of team members Adnan Khan, Harsh Soni, Divyansh Bagwaiya, Rishav Raj",
+  "description": "This is the group project of team members Prachi, Adnan Khan, Rishav Raj",
   "main": "index.js",
   "type": "module",
   "scripts": {
